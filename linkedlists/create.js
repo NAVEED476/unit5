@@ -11,7 +11,7 @@ class Linkedlist {
   // mainly there are two things that i need to remember
 
   // 1. Constructor
-  // 2.Methods
+  // 2. Methods
 
   constructor() {
     this.head = null;
@@ -21,11 +21,10 @@ class Linkedlist {
   // there are mainly four methods which we can use in linked lists
 
   // i.add
-
   // ii.insert
   // iii.delete
-  // isEmpty
-  // size
+  //  isEmpty
+  //  size
   // iv.print
 
   add(element) {
